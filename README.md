@@ -1,8 +1,4 @@
 # PolicyDesk
-A modern, responsive insurance landing UI with a rotating hero section built using pure HTML &amp; CSS.
-
-
-# PolicyDesk
 
 PolicyDesk is a modern and responsive insurance landing page UI built using pure HTML and CSS.  
 It features a rotating hero section, clean layout, and a user-friendly design suitable for insurance, fintech, and policy comparison platforms.
