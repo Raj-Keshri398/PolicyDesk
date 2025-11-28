@@ -12,7 +12,7 @@ You can view the full UI design on Figma:
 
 
 ### 🖥 Desktop View
-![Desktop Screenshot](project-img.jpg)
+![Desktop Picture](project-img.jpg)
 
 ---
 
